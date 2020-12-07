@@ -1,2 +1,2 @@
 # Defianceunstable.github.io
-Ptimary repository
+Primary repository
